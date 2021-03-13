@@ -12,9 +12,9 @@ tags:
   - out of depth
   - fun
 Meta:
-<meta name="description" content="Meta description for test post one">
-<meta name="title" content="Test Page One">
-<meta name="keywords" content="Test, Page, One, Fun">
+  <meta name="description" content="Meta description for test post one">
+  <meta name="title" content="Test Page One">
+  <meta name="keywords" content="Test, Page, One, Fun">
 ---
 
 <h1>This is a H1 Title</h1>
